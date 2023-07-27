@@ -12,6 +12,8 @@ embedded video
 ### 1. 
 Login to the website by agreeing to the terms and conditions, then create a one-time password (this may go to your junk email folder)
 
+![Screenshot of login screen.](images/login.png)
+
 ### 2. a) Files
    To use documents, click the Upload PDF box and select your documents from the explorer. To select multiple documents, hold CTRL and click each document.
    
