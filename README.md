@@ -26,5 +26,5 @@ Login to the website by agreeing to the terms and conditions, then create a one-
 Once the files/URLs have loaded, you can ask your question in the search bar.
 ![Screenshot of loaded screen.](images/loaded.png)
 
-   :+1: Questions can be specific to the documents/URLs (as shown in the below example) and AVIS will provide the answer with the reference from which source, where in the source, and how confident the response is.
+   👍 Questions can be specific to the documents/URLs (as shown in the below example) and AVIS will provide the answer with the reference from which source, where in the source, and how confident the response is.
 ![Screenshot of example questions.](images/questions.png)
