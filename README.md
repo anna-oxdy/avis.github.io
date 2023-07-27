@@ -1,4 +1,4 @@
-# avistest.github.io
+# How To Use AVIS
 
 ## Intro
 AVIS is an intelligent search interrogation software that utilises the power of AI and NLP.
