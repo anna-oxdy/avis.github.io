@@ -3,8 +3,8 @@
 ## Intro
 AVIS is an intelligent search interrogation software that utilises the power of AI and NLP.
 
-**__ The website is currently under development, as such, certain features may not be available or fully working. __**
-
+_The website is currently under development, as such, certain features may not be available or fully working.
+_
 ## Demo 🎥:
 
 embedded video
