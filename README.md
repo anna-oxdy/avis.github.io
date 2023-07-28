@@ -7,7 +7,7 @@ _The website is currently under development, as such, certain features may not b
 
 ## Demo 🎥:
 
-https://github.com/anna-oxdy/avis.github.io/assets/121232301/7b5f0243-885a-4536-a9a8-7f5decee4b1f
+![Demo video](https://github.com/anna-oxdy/avis.github.io/assets/121232301/7b5f0243-885a-4536-a9a8-7f5decee4b1f)
 
 
 ## Getting started 🚀:
