@@ -2,7 +2,8 @@
 
 ## Intro
 AVIS is an intelligent search interrogation software that utilises the power of AI and NLP.
-The website is currently under development, as such, certain features may not be available or fully working.
+
+**__ The website is currently under development, as such, certain features may not be available or fully working. __**
 
 ## Demo 🎥:
 
@@ -15,7 +16,7 @@ Login to the website by agreeing to the terms and conditions, then create a one-
 ![Screenshot of login screen.](images/login.png)
 
 ### 2. a) Files
-   To use documents, click the Upload PDF box and select your documents from the explorer. To select multiple documents, hold CTRL and click each document.
+   To use documents, click the Upload PDF box and select your documents from the explorer. 
 ![Screenshot of loading files.](images/pdfs.png)
    
 ### 2. b) URLS
@@ -28,3 +29,5 @@ Once the files/URLs have loaded, you can ask your question in the search bar.
 
    👍 Questions can be specific to the documents/URLs (as shown in the below example) and AVIS will provide the answer with the reference from which source, where in the source, and how confident the response is.
 ![Screenshot of example questions.](images/questions.png)
+
+   👍 To select multiple documents, refer to step 2a and hold CTRL to click each document.
