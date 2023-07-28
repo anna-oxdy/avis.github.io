@@ -17,7 +17,7 @@ Login to the website by agreeing to the terms and conditions, then create a one-
 
 ### 2. a) Files
    To use documents, click the Upload PDF box and select your documents from the explorer. 
-![Screenshot of loading files.](images/pdfs.png)
+   ![Screenshot of loading files.](images/pdfs.png)
    
 ### 2. b) URLS
    To use websites, paste the link to the website in the bar shown. Press enter to include multiple URLs. Then press the ready button.
